@@ -1,5 +1,5 @@
-# Newscast
-Newscast helps news readers to find information faster by developing an open source toolbox knowledge-based thematic recommendations and search results.
+# Open Recommendation Butler (ORB) - Search and Recommendation System for world-class digital experiences
+ORB helps news readers to find information faster by developing an open source toolbox knowledge-based thematic recommendations and search results.
 
 ## Progress
 
@@ -7,7 +7,7 @@ Newscast helps news readers to find information faster by developing an open sou
 
 ## Sponsors
 
-Newscast is gracefully funded by
+ORB is gracefully funded by
 
 <a href="https://media-tech-lab.com">Media Tech Lab by Media Lab Bayern</a> (<a href="https://github.com/media-tech-lab">@media-tech-lab</a>)
 
