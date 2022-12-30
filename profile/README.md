@@ -17,7 +17,10 @@ In Progress:
 Planned:
 - Semantic Search
 
-## Progress
+## What is it for
+ORB brings structure into documents. It is tested with news articles. However, ORB can also be used for other documents like podcasts, messages etc. as long as they have meta texts.
+
+## Demo
 
 <img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="250" title="Progress bar of batch 2">
 
