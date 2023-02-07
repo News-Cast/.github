@@ -1,6 +1,8 @@
 # Open Recommendation Butler (ORB) - Search and Recommendation System for world-class digital experiences
 ORB helps news readers to find information faster by developing an open source toolbox knowledge-based thematic recommendations and search results.
 
+<a href="https://open-recommendation-butler.tech/">-> Live Demo</a>
+
 ![image](https://user-images.githubusercontent.com/40501887/208692280-deb10725-2a6b-4544-a5ea-8f50892d7ea5.png)
 
 ## Features
@@ -10,8 +12,6 @@ Implemented:
 - Filters for categories
 - Boosting of paid content
 - Auto correction
-
-In Progress:
 - Topic Modeling Search
 
 Planned:
