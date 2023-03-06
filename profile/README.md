@@ -25,7 +25,7 @@ Implemented:
 Here's a brief guide to the repositories and what's inside:
 
 - <a href="https://github.com/open-recommendation-butler/ORB/">🔎 ORB</a>: Main repository with search backend and optional React frontend
-- <a href="https://github.com/open-recommendation-butler/Docs/">📑 Docs</a>: Repository including the documentation
+- <a href="https://github.com/open-recommendation-butler/tutorials/">📚 Tutorials</a>: Repository including tutorials using Open Recommendation Butler
 
 
 ## Sponsors
