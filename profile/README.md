@@ -1,13 +1,13 @@
-# Open Recommendation Butler (ORB) - Search and Recommendation System for world-class digital experiences
-ORB helps news readers to find information faster by developing an open source toolbox knowledge-based thematic recommendations and search results.
+# Open Recommendation Butler - Find what feels missing
+Good search is complex to implement. Every day media houses loose traffic to Google. This open source project is an easy to implement state of the art AI powered search engine for media houses.
 
-<a href="https://open-recommendation-butler.tech/">-> Live Demo</a>
+<a href="https://open-recommendation-butler.tech/"> 🌐 Demo</a>: Check out the power
 
-<a href="https://orbdocs.readthedocs.io/en/latest/">-> Docs (in progress)</a>
+<a href="https://open-recommendation-butler.github.io/Docs/">📑 Docs</a>: Get started in a few minutes
 
-![image](https://user-images.githubusercontent.com/40501887/221694829-5e90816f-f723-45cc-8409-ccee7ba90860.jpg)
+<img src="https://user-images.githubusercontent.com/40501887/221694829-5e90816f-f723-45cc-8409-ccee7ba90860.jpg" width="750" title="Screenshot of Open Recommendation Butler showing its functionality">
 
-## Features
+## Key Features
 Implemented:
 - Fuzzy Search
 - Text correction
@@ -16,23 +16,24 @@ Implemented:
 - Auto correction
 - Topic Modeling Search
 
-Planned:
-- Semantic Search
+## Advantages
 
-## What is it for
-ORB brings structure into documents. It is tested with news articles. However, ORB can also be used for other documents like podcasts, messages etc. as long as they have meta texts.
+<img src="https://user-images.githubusercontent.com/40501887/223161275-c4b3ef11-6bff-4b0d-b8b0-0ce785f6c797.png" width="750" title="Advantages of Open Recommendation Butler">
 
-## Demo
+## Repository index
 
-<img src="https://media-tech-lab.github.io/images/progress-batch-2.png" width="250" title="Progress bar of batch 2">
+Here's a brief guide to the repositories and what's inside:
+
+- <a href="https://github.com/open-recommendation-butler/ORB/">🔎 ORB</a>: Main repository with search backend and optional React frontend
+- <a href="https://github.com/open-recommendation-butler/Docs/">📑 Docs</a>: Repository including the documentation
+
 
 ## Sponsors
 
-ORB is gracefully funded by
+This project is gracefully funded by
 
-<a href="https://media-tech-lab.com">Media Tech Lab by Media Lab Bayern</a> (<a href="https://github.com/media-tech-lab">@media-tech-lab</a>)
+<a href="https://media-tech-lab.com">Media Tech Lab by Media Lab Bayern</a>
 
 <a href="https://media-tech-lab.com">
-    <img src="https://raw.githubusercontent.com/media-tech-lab/.github/main/assets/mtl-powered-by.png" width="240" title="Media Tech Lab powered by logo">
+    <img src="https://user-images.githubusercontent.com/40501887/223163776-2b549037-6106-4c1d-a4eb-078b94da1831.png" width="70" title="Media Lab logo">
 </a>
-
