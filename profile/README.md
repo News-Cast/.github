@@ -30,7 +30,7 @@ Here's a brief guide to the repositories and what's inside:
 
 ## Sponsors
 
-This project is gracefully funded by
+This project is gracefully funded by:
 
 <a href="https://media-tech-lab.com">Media Tech Lab by Media Lab Bayern</a>
 
