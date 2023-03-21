@@ -8,13 +8,16 @@ Good search is complex to implement. Every day media houses loose traffic to Goo
 <img src="https://user-images.githubusercontent.com/40501887/221694829-5e90816f-f723-45cc-8409-ccee7ba90860.jpg" width="750" title="Screenshot of Open Recommendation Butler showing its functionality">
 
 ## Key Features
-Implemented:
+
+This open source project provides the following state of the art search functionality:
 - Fuzzy Search
-- Text correction
-- Filters for categories
+- "Did you mean?" correction of misspelled queries
+- Filters for custom categories
+- Similar search request recommendations
 - Boosting of paid content
-- Auto correction
-- Topic Modeling Search
+- Time sensitive search
+- Auto complete
+- Topic Modeling Search structuring the results
 
 ## Advantages
 
