@@ -24,8 +24,10 @@ Implemented:
 
 Here's a brief guide to the repositories and what's inside:
 
-- <a href="https://github.com/open-recommendation-butler/ORB/">🔎 ORB</a>: Main repository with search backend and optional React frontend
-- <a href="https://github.com/open-recommendation-butler/tutorials/">📚 Tutorials</a>: Repository including tutorials using Open Recommendation Butler
+- <a href="https://github.com/open-recommendation-butler/orb-backend/">🔎 Backend</a>: Main repository with the AI powered search backend
+- <a href="https://github.com/open-recommendation-butler/orb-frontend/">📱 Frontend</a>: Slim, modern, customizable search frontend written with React
+- <a href="https://github.com/open-recommendation-butler/orb-tutorials/">📚 Tutorials</a>: Repository including tutorials using Open Recommendation Butler
+- <a href="https://github.com/open-recommendation-butler/orb-docs/">📚 Tutorials</a>: Repository including the documentation
 
 
 ## Sponsors
